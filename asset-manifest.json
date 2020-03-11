@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-legendary-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-legendary-react-app/static/js/main.e9282d8a.chunk.js",
+    "main.js.map": "/my-legendary-react-app/static/js/main.e9282d8a.chunk.js.map",
+    "runtime-main.js": "/my-legendary-react-app/static/js/runtime-main.269e1e2a.js",
+    "runtime-main.js.map": "/my-legendary-react-app/static/js/runtime-main.269e1e2a.js.map",
+    "static/js/2.0b34e45c.chunk.js": "/my-legendary-react-app/static/js/2.0b34e45c.chunk.js",
+    "static/js/2.0b34e45c.chunk.js.map": "/my-legendary-react-app/static/js/2.0b34e45c.chunk.js.map",
+    "index.html": "/my-legendary-react-app/index.html",
+    "precache-manifest.15dea8be70ded1ead0336e74536e621c.js": "/my-legendary-react-app/precache-manifest.15dea8be70ded1ead0336e74536e621c.js",
+    "service-worker.js": "/my-legendary-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-legendary-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0b34e45c.chunk.js.LICENSE.txt": "/my-legendary-react-app/static/js/2.0b34e45c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-legendary-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269e1e2a.js",
+    "static/js/2.0b34e45c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e9282d8a.chunk.js"
+  ]
+}
